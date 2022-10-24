@@ -38,7 +38,7 @@ Os valores das configurações padrões podem ser alterados no arquivo `vars.aut
     ```
 - No shell, vá até o diretório onde encontram-se os arquivos do terraform: 
     ```bash
-    cd k8s_cluster
+    cd doks
     ```
 - Inicie o terraform:
     ```bash
