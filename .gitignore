@@ -1,0 +1,4 @@
+temp-*
+.terraform*
+*.tfstate*
+*tfplan*
